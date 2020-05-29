@@ -1,0 +1,12 @@
+Image Captioning/
+__pycache__/
+.ipynb_checkpoints/
+images/
+in_cell_images/
+saved_models/
+data/
+cfg/
+iti/
+weights/
+assets/
+detector_architectures/
