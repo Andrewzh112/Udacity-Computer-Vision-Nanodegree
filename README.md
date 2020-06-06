@@ -7,3 +7,6 @@
 
 ## Exercises
  - [Nanodegree exercises](https://github.com/Andrewzh112/Udacity-Computer-Vision-Nanodegree/tree/master/Exercises)
+
+## Certificate
+![](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/f61ccfaa-b23b-4a99-ba60-aea0d12b2c74.svg)
